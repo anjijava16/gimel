@@ -8,7 +8,7 @@
 
 Gimel provides unified Data API to access data from any storage like HDFS, GS, Alluxio, Hbase, Aerospike, BigQuery, Druid, Elastic, Teradata, Oracle, MySQL, SFTP, etc.
 
-
+https://stackoverflow.com/questions/35634853/spark-sql-update-mysql-table-using-dataframes-and-jdbc
 
 --------------------------------------------------------------------------------------------------------------------
 
